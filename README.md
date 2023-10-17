@@ -1,6 +1,6 @@
 # virtue
 
-A new Flutter project.
+Virtue cause of high moral standards.
 
 ## Getting Started
 
