@@ -4,18 +4,27 @@ Virtue cause of high moral standards.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for the Project.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Well Post the API Here
 
 
-## UI
-- must be dope
+## Purpose of Your App
+    - Meant to promote communication and help others get to know one another.
+
+## Features and Functionalities
+    - Poster Screen/Page
+    - Profile Page
+    - Leader board
+    - Guess game
+    - Ice breakers
+    - The Calculater?
+    
+## Platform
+    - Web
+  
+## User Interface
+    - Must be flawless and easy to operate
     
